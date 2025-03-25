@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  font-family: "Baloo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+/* Custom Scrollbar */
+.new-arrivals::-webkit-scrollbar {
+  height: 8px; /* Horizontal scrollbar height */
+}
+
+.new-arrivals::-webkit-scrollbar-track {
+  background: #fff; /* Blue-Whale color */
+  border-radius: 10px;
+}
+
+.new-arrivals::-webkit-scrollbar-thumb {
+  background: #0036B1; /* Lighter blue */
+  border-radius: 10px;
+}
+
+.new-arrivals::-webkit-scrollbar-thumb:hover {
+  background: #0036B1; /* Darker blue on hover */
+}
