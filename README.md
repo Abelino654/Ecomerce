@@ -93,16 +93,14 @@ This project is licensed under the MIT License. See the  file for more details.
 📧 Contact
 If you have any questions or suggestions, feel free to reach out to me:
 
-Email: hassanshehzad@example.com (replace with your email)
+Email: hassanshehzad@example.com 
 GitHub: hassanshehzad1
 Thanks for checking out my project! I hope you find it useful. Happy coding! 
 
 
 ### **How to Add This README to Your Repository**
 
-1. **Create `README.md` in Your Project:**
-   Apne project ke root directory (`Ecommerce`) mein `README.md` file banayein:
-   ```bash
+
    cd Ecommerce
    touch README.md
 ## ⚙️ Installation
